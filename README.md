@@ -1,4 +1,4 @@
-# Cloud-Based-CV-Project
+# Cloud-Based-Vision-Project
 
 **Cloud-Based Computer Vision System using Microsoft Azure AI Vision Studio**
 
